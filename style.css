@@ -1,0 +1,40 @@
+#free, .trocaBG{
+    background-color: rgba(151, 118, 181, 0.784);
+    color: white;
+}
+body{
+    background-color: #dcb6d5;
+    align-items: center;
+    justify-content: center;
+    font: 600 20px 'Lucida', sans-serif;
+    display: flex;
+    flex-direction: column;
+    font: 600 25px 'Lucida', sans-serif;
+}
+
+h1{
+    font: 800 40px 'poppins', sans-serif;
+}
+
+table{
+    border: 3px solid black;
+    border-collapse: collapse;
+    background-color: #fff;
+}
+
+th{
+    background-color: black;
+    color: #fff;
+}
+th, td{
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+    width: 20%;
+}
+a{
+    color: #b92a9c;
+}
+p{
+    margin-top: 20px;
+}
